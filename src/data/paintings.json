@@ -1,0 +1,98 @@
+{
+  "paintings": [
+    {
+      "id": "b67a705f-0c84-4a41-b790-d25ecad02417",
+      "title": "Fjord II",
+      "description": "Abendrot über dem Wasser. Acryl auf Leinwand, 80×60 cm.",
+      "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=600&fit=crop",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=600&fit=crop",
+      "priceEur": 340000,
+      "status": "sold",
+      "dropId": "0b853fe8-003e-4073-be7c-efc64af346bc",
+      "sortOrder": 2,
+      "createdAt": "2026-07-03T17:35:45.381Z",
+      "updatedAt": "2026-07-03T17:35:45.381Z"
+    },
+    {
+      "id": "7a0a18ed-c4a0-495f-a495-4c00a6b99d18",
+      "title": "Wald I",
+      "description": "Tief im Nadelwald. Öl auf Leinwand, 100×70 cm.",
+      "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&h=600&fit=crop",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&h=600&fit=crop",
+      "priceEur": 410000,
+      "status": "available",
+      "dropId": "0b853fe8-003e-4073-be7c-efc64af346bc",
+      "sortOrder": 3,
+      "createdAt": "2026-07-03T17:35:45.381Z",
+      "updatedAt": "2026-07-03T17:35:45.381Z"
+    },
+    {
+      "id": "ebcbd8b3-1e3f-4555-878b-5a544e19dd17",
+      "title": "Wald II",
+      "description": "Licht durch die Baumkronen. Öl auf Leinwand, 100×70 cm.",
+      "imageUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=600&fit=crop",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&h=600&fit=crop",
+      "priceEur": 430000,
+      "status": "available",
+      "dropId": "0b853fe8-003e-4073-be7c-efc64af346bc",
+      "sortOrder": 4,
+      "createdAt": "2026-07-03T17:35:45.381Z",
+      "updatedAt": "2026-07-03T17:35:45.381Z"
+    },
+    {
+      "id": "aba71974-cbb0-482c-a288-c18ec65eb805",
+      "title": "Stein I",
+      "description": "Granitformationen an der Küste. Mixed Media, 60×60 cm.",
+      "imageUrl": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?w=800&h=600&fit=crop",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?w=800&h=600&fit=crop",
+      "priceEur": 280000,
+      "status": "reserved",
+      "dropId": "0b853fe8-003e-4073-be7c-efc64af346bc",
+      "sortOrder": 5,
+      "createdAt": "2026-07-03T17:35:45.381Z",
+      "updatedAt": "2026-07-03T17:35:45.381Z"
+    },
+    {
+      "id": "499e7f21-1306-4038-9552-367cbbc19ff7",
+      "title": "Meer I",
+      "description": "Der Rhythmus der Nordsee. Acryl auf Leinwand, 120×80 cm.",
+      "imageUrl": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=800&h=600&fit=crop",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=800&h=600&fit=crop",
+      "priceEur": 520000,
+      "status": "available",
+      "dropId": "0b853fe8-003e-4073-be7c-efc64af346bc",
+      "sortOrder": 6,
+      "createdAt": "2026-07-03T17:35:45.381Z",
+      "updatedAt": "2026-07-03T17:35:45.381Z"
+    },
+    {
+      "id": "610087ec-8c06-4687-bb30-1aea99e371a0",
+      "title": "Fjord I",
+      "description": "Morgenlicht über dem Fjord. Acryl auf Leinwand, 80×60 cm.",
+      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+      "priceEur": 320000,
+      "status": "reserved",
+      "dropId": "0b853fe8-003e-4073-be7c-efc64af346bc",
+      "sortOrder": 1,
+      "createdAt": "2026-07-03T17:35:45.380Z",
+      "updatedAt": "2026-07-03T17:40:00.116Z"
+    }
+  ],
+  "drops": [
+    {
+      "id": "0b853fe8-003e-4073-be7c-efc64af346bc",
+      "title": "Woche 27 / 2026",
+      "publishAt": "2026-06-27T18:00:00Z",
+      "isPublished": true,
+      "createdAt": "2026-07-03T17:35:45.378Z"
+    },
+    {
+      "id": "3ca8307a-29c6-4bac-9888-e61166226f2d",
+      "title": "Woche 28 / 2026",
+      "publishAt": "2026-07-10T18:00:00Z",
+      "isPublished": false,
+      "createdAt": "2026-07-03T17:35:45.380Z"
+    }
+  ]
+}
